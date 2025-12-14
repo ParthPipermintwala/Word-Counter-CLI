@@ -4,7 +4,10 @@
 
 ### *Lightning-fast word frequency analyzer for your text files*
 
+✨ **Now available on npm!** [Install](https://www.npmjs.com/package/@parth_pipermintwala/wordfreq)
+
 [![Node.js](https://img.shields.io/badge/Node.js-25.2.1-green.svg)](https://nodejs.org/)
+[![NPM](https://img.shields.io/badge/npm-Published-red.svg)](https://www.npmjs.com/package/@parth_pipermintwala/wordfreq)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-0-success.svg)]()
 
@@ -25,7 +28,7 @@
 ## 📦 Installation
 
 ```bash
-npm install -g word-counter-cli
+npm install -g @parth_pipermintwala/wordfreq
 ```
 
 ---

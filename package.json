@@ -1,6 +1,6 @@
 {
   "name": "@parth_pipermintwala/wordfreq",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "bin": {
     "count": "./bin/index.js"
