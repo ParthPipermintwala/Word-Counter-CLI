@@ -124,13 +124,13 @@ for file in *.txt; do count "$file"; done
 
 ## 📄 License
 
-MIT © 2024
+MIT © 2025
 
 ---
 
 <div align="center">
 
-**Made with ❤️ for text analysis enthusiasts**
+**Made with ❤️ by Parth Pipermintwala**
 
 [Report Bug](https://github.com/yourusername/word-counter-cli/issues) · [Request Feature](https://github.com/yourusername/word-counter-cli/issues)
 
