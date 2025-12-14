@@ -1,4 +1,3 @@
-<!-- WordFreq -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1FA2FF,100:12D8FA&text=Word%20Counter%20CLI&fontAlign=50&fontAlignY=35&fontColor=ffffff" alt="Word Counter CLI banner" />
