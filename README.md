@@ -1,0 +1,137 @@
+<div align="center">
+
+# 📊 Word Counter CLI
+
+### *Lightning-fast word frequency analyzer for your text files*
+
+[![Node.js](https://img.shields.io/badge/Node.js-14%2B-green.svg)](https://nodejs.org/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Zero Dependencies](https://img.shields.io/badge/dependencies-0-success.svg)]()
+
+</div>
+
+---
+
+## ✨ Features
+
+🎯 **Smart Analysis** - Count every word with precision  
+🔍 **Word Search** - Find specific word occurrences instantly  
+🎨 **Case-Insensitive** - Automatically handles uppercase/lowercase  
+🚀 **Blazing Fast** - Pure Node.js with zero dependencies  
+📋 **Clean Output** - Beautiful formatted results  
+
+---
+
+## 📦 Installation
+
+```bash
+npm install -g word-counter-cli
+```
+
+---
+
+## 🚀 Quick Start
+
+### Count All Words
+```bash
+count ./text.txt
+```
+
+**Output:**
+```
+─────────────────────────────────────────────────────────────────
+{ theory: 5, is: 4, in: 6, general: 1, any: 5, practice: 3 }
+─────────────────────────────────────────────────────────────────
+Total words: 250
+─────────────────────────────────────────────────────────────────
+```
+
+### Search for Specific Word
+```bash
+count ./text.txt theory
+```
+
+**Output:**
+```
+─────────────────────────────────────────────────────────────────
+The word "theory" appears 5 times.
+─────────────────────────────────────────────────────────────────
+```
+
+---
+
+## 💡 Use Cases
+
+📝 **Content Writers** - Analyze your writing patterns  
+🎓 **Students** - Study text composition and word usage  
+🔎 **SEO Specialists** - Check keyword density  
+📚 **Researchers** - Perform quick text analysis  
+✍️ **Authors** - Track word frequency in manuscripts  
+
+---
+
+## 🛠️ How It Works
+
+1. 📖 Reads your text file
+2. 🔄 Converts to lowercase for consistency
+3. ✂️ Splits into individual words
+4. 🧹 Filters out numbers and punctuation
+5. 📊 Counts and displays results
+
+---
+
+## ⚙️ Technical Details
+
+- **Runtime:** Node.js 14+ (ESM modules)
+- **Dependencies:** Zero! Pure Node.js
+- **File Support:** Any text-based file format
+- **Word Detection:** Regex-based (`/\W+/` split + alpha filter)
+- **Error Handling:** Clear messages for missing files or invalid paths
+
+---
+
+## 📖 Command Syntax
+
+```bash
+count <filePath> [wordToFind]
+```
+
+| Argument | Required | Description |
+|----------|----------|-------------|
+| `filePath` | ✅ Yes | Path to the text file to analyze |
+| `wordToFind` | ⬜ Optional | Specific word to search for |
+
+---
+
+## 🎯 Pro Tips
+
+💾 **Export Results** - Save counts to a file:
+```bash
+count document.txt > results.txt
+```
+
+🔗 **Chain Commands** - Combine with other tools:
+```bash
+cat *.txt | count combined.txt
+```
+
+📁 **Analyze Multiple Files** - Use a loop:
+```bash
+for file in *.txt; do count "$file"; done
+```
+
+---
+
+## 📄 License
+
+MIT © 2024
+
+---
+
+<div align="center">
+
+**Made with ❤️ for text analysis enthusiasts**
+
+[Report Bug](https://github.com/yourusername/word-counter-cli/issues) · [Request Feature](https://github.com/yourusername/word-counter-cli/issues)
+
+</div>

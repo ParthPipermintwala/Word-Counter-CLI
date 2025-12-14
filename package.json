@@ -1,0 +1,8 @@
+{
+  "name": "word-counter-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "count": "./bin/index.js"
+  }
+}
