@@ -1,5 +1,5 @@
 {
-  "name": "word-counter-cli",
+  "name": "@parth_pipermintwala/wordfreq",
   "version": "1.0.1",
   "type": "module",
   "bin": {
