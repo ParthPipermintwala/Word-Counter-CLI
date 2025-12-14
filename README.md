@@ -4,7 +4,7 @@
 
 ### *Lightning-fast word frequency analyzer for your text files*
 
-[![Node.js](https://img.shields.io/badge/Node.js-14%2B-green.svg)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-25.2.1-green.svg)](https://nodejs.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-0-success.svg)]()
 
@@ -82,7 +82,7 @@ The word "theory" appears 5 times.
 
 ## ⚙️ Technical Details
 
-- **Runtime:** Node.js 14+ (ESM modules)
+- **Runtime:** Node.js 25.2.1+ (ESM modules)
 - **Dependencies:** Zero! Pure Node.js
 - **File Support:** Any text-based file format
 - **Word Detection:** Regex-based (`/\W+/` split + alpha filter)
