@@ -1,15 +1,16 @@
 <div align="center">
 
-# 📊 Word Counter CLI
 
-### *Lightning-fast word frequency analyzer for your text files*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1FA2FF,100:12D8FA&text=Word%20Counter%20CLI&fontAlign=50&fontAlignY=35&fontColor=ffffff" alt="Word Counter CLI banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=2500&pause=600&color=16E7FF&center=true&vCenter=true&width=650&lines=Lightning-Fast+Word+Frequency+Analyzer;Zero+Dependencies.++Pure+Node.js;Count+Everything.+Search+Anything." alt="Animated headline" />
 
 ✨ **Now available on npm!** [Install](https://www.npmjs.com/package/@parth_pipermintwala/wordfreq)
 
-[![Node.js](https://img.shields.io/badge/Node.js-25.2.1-green.svg)](https://nodejs.org/)
-[![NPM](https://img.shields.io/badge/npm-Published-red.svg)](https://www.npmjs.com/package/@parth_pipermintwala/wordfreq)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Zero Dependencies](https://img.shields.io/badge/dependencies-0-success.svg)]()
+[![Node.js](https://img.shields.io/badge/Node.js-25.2.1-1fa2ff?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![NPM](https://img.shields.io/badge/NPM-Published-12d8fa?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@parth_pipermintwala/wordfreq)
+[![License](https://img.shields.io/badge/License-MIT-00c7b7?style=for-the-badge)](LICENSE)
+[![Zero Dependencies](https://img.shields.io/badge/Deps-0-00e1ff?style=for-the-badge&logo=databricks&logoColor=white)]()
 
 </div>
 
